@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="UltraCalc: Sums worth keeping." width="100%">
+</p>
+
 # UltraCalc
 
-**Sums worth keeping.** A calculator that keeps your sums in projects, with tax, percentages, currencies and a unit converter, plus a tiny widget that stays on top.
+**Sums worth keeping.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+A calculator that keeps your sums in projects, with tax, percentages, currencies and a unit converter, plus a tiny widget that stays on top.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
